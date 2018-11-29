@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "IBMPlexSans-Regular";
+	src: url("../fonts/IBM-Plex-Sans/IBMPlexSans-Regular.otf?#iefix")format("embedded-opentype"),
+	url("../fonts/IBM-Plex-Sans/IBMPlexSans-Regular.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "IBMPlexSans-SemiBold";
+	src: url("../fonts/IBM-Plex-Sans/IBMPlexSans-SemiBold.otf?#iefix")format("embedded-opentype"),
+	url("../fonts/IBM-Plex-Sans/IBMPlexSans-SemiBold.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
